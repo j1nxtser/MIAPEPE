@@ -1,0 +1,13 @@
+{
+  "name": "MPE",
+  "symbol": "MPE",
+  "description": "Token MPE sur Devnet",
+  "seller_fee_basis_points": 0,
+  "image": "https://photos.pinksale.finance/file/pinksale-logo-upload/1756574779620-6776c1aa2cb0a01295961f8ac01cde72.jpeg",
+  "attributes": [],
+  "properties": {
+    "creators": [
+      { "address": "TON_ADRESSE_WALLET", "share": 100 }
+    ]
+  }
+}
