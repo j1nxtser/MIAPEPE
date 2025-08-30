@@ -1,8 +1,12 @@
 {
   "name": "MIA&PEPE",
   "symbol": "MPE",
-  "description": "Le memecoin MPE sur Solana Devnet",
-  "image": "https://raw.githubusercontent.com/j1nxtser/MIAPEPE/main/logo.png",
-  "external_url": "https://github.com/j1nxtser/MIAPEPE",
-  "attributes": []
+  "uri": "https://raw.githubusercontent.com/j1nxtser/MIAPEPE/main/metadata.json",
+  "seller_fee_basis_points": 0,
+  "creators": [
+    {
+      "address": "GUwuZ7gjbpZoGUkxNkE26eE2Y3BxGu41vMbhnJuRQVCv",
+      "share": 100
+    }
+  ]
 }
