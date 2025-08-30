@@ -1,10 +1,10 @@
 {
   "name": "MPE",
   "symbol": "MPE",
-  "description": "Token MPE sur Devnet",
-  "seller_fee_basis_points": 0,
+  "description": "Memecoin MPE sur Solana Devnet",
   "image": "https://photos.pinksale.finance/file/pinksale-logo-upload/1756574779620-6776c1aa2cb0a01295961f8ac01cde72.jpeg",
-  "attributes": [],
+  "seller_fee_basis_points": 0,
+  "uri": "https://raw.githubusercontent.com/j1nxtser/MIAPEPE/main/metadata.json",
   "properties": {
     "creators": [
       { "address": "GUwuZ7gjbpZoGUkxNkE26eE2Y3BxGu41vMbhnJuRQVCv", "share": 100 }
