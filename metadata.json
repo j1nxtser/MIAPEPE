@@ -6,6 +6,13 @@
   "image": "https://photos.pinksale.finance/file/pinksale-logo-upload/1756574779620-6776c1aa2cb0a01295961f8ac01cde72.jpeg",
   "attributes": [],
   "properties": {
+    "files": [
+      {
+        "uri": "https://photos.pinksale.finance/file/pinksale-logo-upload/1756574779620-6776c1aa2cb0a01295961f8ac01cde72.jpeg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image",
     "creators": [
       { "address": "GUwuZ7gjbpZoGUkxNkE26eE2Y3BxGu41vMbhnJuRQVCv", "share": 100 }
     ]
