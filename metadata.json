@@ -1,7 +1,8 @@
 {
-  "name": "MIA & PEPE",
+  "name": "MIA&PEPE",
   "symbol": "MPE",
-  "description": "Memecoin MPE sur Solana Devnet. Amuse-toi et fais partie de la communauté !",
-  "image": "https://photos.pinksale.finance/file/pinksale-logo-upload/1756574779620-6776c1aa2cb0a01295961f8ac01cde72.jpeg",
-  "decimals": 9
+  "description": "Le memecoin MPE sur Solana Devnet",
+  "image": "https://raw.githubusercontent.com/j1nxtser/MIAPEPE/main/logo.png",
+  "external_url": "https://github.com/j1nxtser/MIAPEPE",
+  "attributes": []
 }
